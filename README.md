@@ -2,6 +2,7 @@
 Files for Lab Activities in CMSC124
 
 PE01 - Linked Lists (Array, Singly-, and Doubly-linked Implementations)
+
 PE02 - Kitchen Washing Machine (Application of Stack and Array Implementations)
 PE03 - People in a Line (Application of Queue)
 PE04 - Trees
